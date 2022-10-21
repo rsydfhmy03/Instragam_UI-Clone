@@ -1,0 +1,38 @@
+.title{
+	font-family: 'Brush Script MT';
+	font-size: 30px;
+}
+.table{
+	margin-top: 70px;
+	margin-left: 280px;
+}
+.table2{
+	margin-left: 280px;
+}
+
+.button{
+	width: 150px;
+	height: 25px;
+	background:#4eb3f7;
+	color: rgb(0, 0, 0);
+	cursor: pointer;
+}
+.link{
+	text-decoration: none;
+	color: #1c8cd0;
+}
+.format{
+	text-decoration: none;
+}
+.font{
+	color: #838683;
+	font-size: 15px;
+}
+h5{
+	color: #838683;
+}
+.footer{
+	color: #9d9e9e;
+	cursor: pointer;
+	font-size: 16px;
+}
